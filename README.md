@@ -38,7 +38,7 @@ I pick tools that the team 12 months from now won't curse me for.
 
 ### things I will not apologize for
 
-- Asking "why" before a single line of TypeScript gets written — half of complex features shrink once we agree on the user outcome.
+- Asking "why" before a single line of TypeScript gets written - half of complex features shrink once we agree on the user outcome.
 - Treating an API as a contract: consistent responses, predictable errors, real status codes, versioning when it breaks.
 - Questioning every new dependency. Fewer isn't always better; intentional always is.
 - Measuring before adding indexes. Then verifying the impact.
